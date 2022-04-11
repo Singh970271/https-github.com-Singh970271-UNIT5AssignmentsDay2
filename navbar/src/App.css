@@ -1,0 +1,37 @@
+.navbar {
+  border: 1px solid;
+  height: 90px;
+  width: 98%;
+  background-color: rgb(237, 224, 224);
+}
+.innernav{
+  display: flex;
+  border: 1px solid;
+  height: 40px;
+  width: 95%;
+  margin: auto;
+  margin-top: 20px;
+  background-color: black;
+  color: white;
+   
+}
+.service{
+  display: flex;
+  /* border: 1px solid red; */
+  height: 20px;
+  width: 20%;
+  margin-top: 10px;
+   justify-content: space-around; 
+  margin: auto;
+  margin-top: 3px;
+  gap: 5px;
+}
+.bakery{
+  color: red;
+}
+.btn{
+  color: brown;
+  border-radius: 15px;
+}
+
+
